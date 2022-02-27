@@ -281,3 +281,4 @@ Received Import Request.
 Start importing Assets/Karting/Art/Materials/Props/Ramp_60Degrees.mat using Guid(ce13997e667c3584bbb93d97d59bb6eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '025fb044ec005a64908405579fadaa4b') in 0.026682 seconds 
   Import took 0.032031 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
